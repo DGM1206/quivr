@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.0.115 (2023-11-16)
+
+## What's Changed
+* fix(apiBrain): fix default type selection by @mamadoudicko in https://github.com/StanGirard/quivr/pull/1642
+* fix: allow user to set a brain as public after creation by @mamadoudicko in https://github.com/StanGirard/quivr/pull/1646
+* fix(brainManagement): fix shared brain access issue by @gozineb in https://github.com/StanGirard/quivr/pull/1641
+
+
+**Full Changelog**: https://github.com/StanGirard/quivr/compare/v0.0.114...v0.0.115
+
 ## 0.0.114 (2023-11-16)
 
 ## What's Changed
